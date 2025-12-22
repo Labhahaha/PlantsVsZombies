@@ -9,6 +9,10 @@
 > :rocket:以纯贴图的方式还原游戏场景，复刻了原版游戏的大多数功能，包含最基本的几种植物和僵尸
 >
 > :rocket:包含背景音乐和打击音效
+> 
+## 启动方式
+> /src/Game/GameWindow模块启动游戏
+<img width="759" height="366" alt="image" src="https://github.com/user-attachments/assets/622edb64-cdae-4f68-bc41-f625fbb1726d" />
 
 
 👋**如果这个项目对你有用，请在页面右上角点个 Star ⭐ 支持一下，谢谢！**
